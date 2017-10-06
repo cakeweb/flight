@@ -1,4 +1,15 @@
-.idea
+# Composer
 vendor/
 composer.phar
 composer.lock
+
+# System files
+*.DS_Store
+desktop.ini
+
+# Sublime Text
+*.sublime-workspace
+.phpintel
+
+# Others
+.idea
